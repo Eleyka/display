@@ -1,0 +1,16 @@
+#estilo1, #estilo3 {color:rgb(17, 17, 17);
+    background:#FFBF00;
+    width: 100%;
+    height: 100px;
+    display: block;
+    box-sizing: border-box;
+    
+    }
+#estilo2{color:rgb(7, 7, 7);
+background:rgb(82, 82, 83);
+width: 100%;
+height: 100px;
+display: block;
+box-sizing: border-box;
+color: #ffffff;
+}

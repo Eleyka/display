@@ -1,0 +1,27 @@
+#estilo1, #estilo3 {color:rgb(17, 17, 17);
+    background:#FFBF00;
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    margin: 0px 20px 7px 10px;
+    box-sizing: border-box;
+    text-align: center;
+    
+    }
+#estilo2 {color:rgb(7, 7, 7);
+          background:rgb(82, 82, 83);
+          width: 30px;
+          height: 50px;
+          display: inline-block;
+          margin: 0px 18px 7px 5px;
+          box-sizing: border-box;
+          text-align: center;
+          color: #ffffff;
+}
+#estilo3 {
+    width: 160px;
+    
+}
+body{
+    margin-top: 0;
+}
